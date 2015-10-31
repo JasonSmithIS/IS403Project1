@@ -13,5 +13,17 @@ namespace Project1.Controllers
         {
             return View();
         }
+        public ActionResult Missions()
+        {
+            return View();
+        }
+        public ActionResult About()
+        {
+            return View();
+        }
+        public ActionResult Contact()
+        {
+            return View();
+        }
     }
 }

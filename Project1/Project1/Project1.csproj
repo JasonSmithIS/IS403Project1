@@ -104,6 +104,9 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\BYU\Home.cshtml" />
+    <Content Include="Views\BYU\Missions.cshtml" />
+    <Content Include="Views\BYU\About.cshtml" />
+    <Content Include="Views\BYU\Contact.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
